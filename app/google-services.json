@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593280068688",
+    "project_id": "autenticacion-2121e",
+    "storage_bucket": "autenticacion-2121e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593280068688:android:51884f22251bca4ebbf555",
+        "android_client_info": {
+          "package_name": "com.example.autenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593280068688-o6hj5gqkb31keii028ttuth093hl9t7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYd528RUd8UQdYwqav3sQjespEvtg1E5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593280068688-o6hj5gqkb31keii028ttuth093hl9t7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
